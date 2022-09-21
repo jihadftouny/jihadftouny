@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jihad-ftouny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihad-ftouny" height="30" width="40" /></a>
 <a href="https://instagram.com/jihadftouny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jihadftouny" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jihanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jihanger" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCumonbKsjCMF-BI8EXhIRcQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jihanger" height="30" width="40" /></a>
 <a href="https://discord.gg/Jihanger#9563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jihanger#9563" height="30" width="40" /></a>
 <a href="/ftouny.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ftouny.com/feed.xml" height="30" width="40" /></a>
 </p>
