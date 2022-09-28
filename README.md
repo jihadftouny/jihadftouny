@@ -19,8 +19,6 @@
 
 - 📄 Know about my experiences [ftouny.com](ftouny.com)
 
-- ⚡ Fun fact **JooJ**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
