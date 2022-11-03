@@ -13,7 +13,7 @@
 
 - 📝 I will be writing poetry on [ftouny.com/blog/](ftouny.com/blog/)
 
-- 💬 Ask me about **Java and dealing with supernatural encounters**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **jihad.santosb@hotmail.com**
 
