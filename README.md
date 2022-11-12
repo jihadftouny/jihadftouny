@@ -3,21 +3,15 @@
 
 - 🔭 I’m currently working on [The Void](https://github.com/jihadftouny/The-Void)
 
-- 🌱 I’m currently learning **React, React Native, JavaScript, TypeScript, Tailwind**
+- 🌱 I’m currently learning **Java, Bootstrap 5, Angular**
 
 - 👯 I’m looking to collaborate on [Forgotten Server](https://github.com/otland/forgottenserver)
-
-- 🤝 I’m looking for help with [Duo Searcher](https://github.com/jihadftouny/nlw-marathon-duo-searcher)
 
 - 👨‍💻 All of my projects are available at [ftouny.com](ftouny.com)
 
 - 📝 I will be writing poetry on [ftouny.com/blog/](ftouny.com/blog/)
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **jihad.santosb@hotmail.com**
-
-- 📄 Know about my experiences [ftouny.com](ftouny.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
