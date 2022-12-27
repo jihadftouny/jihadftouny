@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jihad Ftouny</h1>
-<h3 align="center">Computer Science Student and Indie Game Dev</h3>
+<h3 align="center">Computer Science Student and Indie Game Developer</h3>
 
 - 🔭 I’m currently working on [The Void](https://github.com/jihadftouny/The-Void) and [Horse Auction B5 + A](https://github.com/jihadftouny/horse-auction-website)
 
