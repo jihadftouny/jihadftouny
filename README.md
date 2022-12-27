@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [The Void](https://github.com/jihadftouny/The-Void) and [Horse Auction B5 + A](https://github.com/jihadftouny/horse-auction-website)  
   
 
-- 🌱 I’m currently learning Java and Bootstrap/Angular  
+- 🌱 I’m currently learning Bootstrap/Angular and Java. Soon C# and Unity
   
 
 - ❓ Ask me about anything related to MMOs and MTG  
