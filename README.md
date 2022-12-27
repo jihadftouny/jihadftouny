@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jihad Ftouny</h1>
 <h3 align="center">Computer Science Student and Indie Game Dev</h3>
 
-- 🔭 I’m currently working on [The Void](https://github.com/jihadftouny/The-Void),[Horse Auction B5 + A]https://github.com/jihadftouny/horse-auction-website
+- 🔭 I’m currently working on [The Void](https://github.com/jihadftouny/The-Void),[Horse Auction B5 + A](https://github.com/jihadftouny/horse-auction-website)
 
 - 🌱 I’m currently learning **Java, Bootstrap 5, Angular**
 
