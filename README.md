@@ -1,4 +1,4 @@
-### <div align="center">I'm Jihad, a Computer Science student and Indie Game Developer 👨‍💻 playing computer games since 2003 🚀</div>  
+### <div align="center">I'm Jihad, Computer Science student and Game Developer 👨‍💻 playing computer games since 2003 🚀</div>  
   
 
 - 🔭 I’m currently working on [The Void](https://github.com/jihadftouny/The-Void) and [Horse Auction B5 + A](https://github.com/jihadftouny/horse-auction-website)  
