@@ -1,8 +1,5 @@
 ### <div align="center">👨‍💻 I'm Jihad, Computer Science student and Game Developer 👨‍💻</div>  
 
-# 💫 About Me:
-🔭 I’m currently working on [ABZ Flowers](https://github.com/jihadftouny/flower-eshop)  <br>  <br><br>🌱 I’m currently learning MEAN stack and C#/Unity<br>  <br><br>❓ Ask me about anything related to MMOs and MTG  <br>  <br><br>⚡ Fun fact: Super Mario World for the SNES was my first game 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jihad-ftouny) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jihadsantosftouny) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCumonbKsjCMF-BI8EXhIRcQ) 
