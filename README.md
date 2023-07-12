@@ -1,4 +1,4 @@
-### <div align="center">👨‍💻 Hi! My name is Jihad, I'm a Game Dev, Web Dev and A.I. Enthusiast! 👨‍💻</div>  
+### <div align="center">👨‍💻 Hi! My name is Jihad, I'm a Game Dev, Web Dev and AI/ML Engineer 👨‍💻</div>  
 ### <div align="center">👉 Access my [Portfolio](https://portfolio.ftouny.com) 👈</div> 
 
 ## 🌐 Socials:
