@@ -5,8 +5,9 @@
 I ship LLM systems end-to-end — customer-facing agents, RAG pipelines, AI platforms, and the backend infrastructure
 they run on — mostly in healthcare and insurance, where the data is confidential and the cost of a wrong answer is real. Alongside that, I design and teach
 AI programs: I authored AUB's 8-week AI Starter Kit certificate, co-authored the UAE AI Academy curriculum with
-Microsoft, and mentor and review code for SE Factory's AI Engineering Bootcamp. At ZAKA, the programs I built
-trained [7,000+ people in 2025 alone](https://zaka.ai/blog/zaka-2025-year-of-accelerated-growth-ai-impact/).
+Microsoft, and mentor and review code for SE Factory's AI Engineering Bootcamp. I've taught and mentored 400+ students
+directly, and the programs I built at ZAKA trained
+[7,000+ people in 2025 alone](https://zaka.ai/blog/zaka-2025-year-of-accelerated-growth-ai-impact/).
 
 Before AI paid the bills I shipped games, and I still do — which is why a Java text-RPG sits next to the ML work below.
 
