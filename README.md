@@ -4,7 +4,7 @@
 
 I build AI systems that people actually use, and I write the courses that teach other people to build them.
 
-I am an AI and software engineer at Limitless Technologies in Beirut, working in health and insurance technology. On my own time I built a platform that turns an idea into a finished children's storybook, and a tool that spots AI-written text without needing a large model to do it.
+I am an AI and software engineer at Limitless Technologies in Beirut, working in health and insurance technology. On my own time I built a platform that puts a child into their own picture book, and a tool that spots AI-written text without needing a large model to do it.
 
 My teaching material has run at AUB, with Microsoft, at G42, ZAKA and SE Factory. I have taught and mentored more than 400 people directly. And I still make games, which is where I started.
 
@@ -17,7 +17,7 @@ My teaching material has run at AUB, with Microsoft, at G42, ZAKA and SE Factory
 | | What it is |
 |---|---|
 | **[GPTector](https://gptector-flask.onrender.com/)** · [code](https://github.com/jihadftouny/gptector-flask) | Spots AI-written text without needing a large model to do it. Most detectors are themselves big models, which is expensive for what is really a yes or no question. This one runs on an ordinary CPU and handles short text, which is where most detectors fall apart. Built in support of SUPSI research. |
-| **Magic Wonder** | Turns an idea into a finished children's storybook. Writes the story, illustrates it, lays out the pages, exports something printable. Built with a partner for a client who was doing all of it by hand. |
+| **Magic Wonder** | Turns a child's photo into a personalized picture book. Pick a story template, upload a photo, and it swaps the child's face into every illustrated page, lets you redo any page you are not happy with, then lays the story text over the art and exports a PDF. Built with a partner for a client who had been assembling these by hand. |
 | **[AUB AI Starter Kit](https://aub.edu.lb/msfea/online/Programs/AI-starter-kit.html)** | An eight week certificate for people starting from zero, built for the American University of Beirut. I owned it end to end, from the syllabus through the assessments. Local examples, including ones in Arabic. |
 | **[Smart glasses prototype](https://www.linkedin.com/feed/update/urn:li:activity:7090393604661071872/)** | Glasses that describe what is in front of someone who cannot see it, calling out obstacles as you walk. I led the team, and it won the AUB hackathon. |
 | **[The Void](https://github.com/jihadftouny/The-Void)** | A text RPG in Java with dice-based combat and a rarity system for equipment. 121 commits of working on it alone. I am rebuilding it now so a model generates the enemies, lore and story while you play. |
