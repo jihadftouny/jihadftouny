@@ -2,14 +2,13 @@
 
 **AI & Software Engineer @ Limitless Technologies · I build AI systems and teach them (AUB · Microsoft · G42) · and I make games**
 
-I ship LLM systems end-to-end: customer-facing agents, RAG pipelines and AI platforms, and I own the
-document-handling path in the backend of one of them. Mostly in healthcare and insurance, where the data is confidential and the cost of a wrong answer is
-real. Alongside that, I design and teach AI programs. I co-authored AUB's 8-week AI Starter Kit certificate and the UAE
-AI Academy curriculum with Microsoft, and mentor and review code for SE Factory's AI
-Engineering Bootcamp. I've taught and mentored 400+ students directly, and the programs I built at ZAKA trained
-[7,000+ people in 2025 alone](https://zaka.ai/blog/zaka-2025-year-of-accelerated-growth-ai-impact/).
+I build AI systems that do real work for real customers, not demos.
 
-Before AI paid the bills I shipped games, and I still do, which is why a Java text-RPG sits next to the ML work below.
+At Limitless I own two of them. One handles insurance business over email: it reads what someone wrote, pulls the details it needs, reads their documents, checks them against the insurer's records, and either answers or issues the policy. The other is a conversational assistant, where I look after the logic that decides how it thinks, what it offers, and when it should stop and ask a person.
+
+The most useful decision I made there was to use the model less. The email system started with the model doing the reasoning, and it worked until it didn't: same email, different answer, no way to explain why. So I moved the decisions into plain Python and left the model doing what it is actually good at, which is reading messy human writing. The model proposes, the code decides.
+
+I also write AI courses. My material has run at AUB, with Microsoft, at G42, ZAKA and SE Factory. And I still make games, which is where I started.
 
 **[→ portfolio.ftouny.com](https://portfolio.ftouny.com)**
 
@@ -19,21 +18,21 @@ Before AI paid the bills I shipped games, and I still do, which is why a Java te
 
 | | What it is |
 |---|---|
-| **[GPTector](https://gptector-flask.onrender.com/)** · [code](https://github.com/jihadftouny/gptector-flask) | Detects AI-generated text with compact classical ML instead of a large model. Built in support of SUPSI research. The point is that you don't always need a transformer. |
-| **Magic Wonder** | End-to-end AI platform that generates complete children's storybooks: LLM story generation, illustration synthesis, layout, and PDF export. Architected, built, and deployed solo for a client. |
-| **Customer-facing AI agent** | A policy assistant for a confidential insurance client, answering natural-language questions about their policies. I designed the prompt architecture, conversation flows and grounding behaviour, and I own the document-handling path in its backend: how a customer document is understood, attributed to the right person, and acted on. |
-| **[AUB AI Starter Kit](https://aub.edu.lb/msfea/online/Programs/AI-starter-kit.html)** | An 8-week online professional certificate I co-authored for the American University of Beirut, including localized examples with Arabic LLMs. |
-| **[Smart glasses prototype](https://www.linkedin.com/feed/update/urn:li:activity:7090393604661071872/)** | Led the team that won an AUB hackathon, using YOLO-based object recognition for navigation assistance for visually impaired users. |
-| **[The Void](https://github.com/jihadftouny/The-Void)** | A text-RPG in Java with D&D-style attributes, dice-based turn combat, and rarity-based equipment. 121 commits of solo iteration. Now being reworked into a prototype for LLM-driven content: enemies, lore, and story generated at runtime instead of hand-written. |
+| **[GPTector](https://gptector-flask.onrender.com/)** · [code](https://github.com/jihadftouny/gptector-flask) | Spots AI-written text without needing a large model to do it. Most detectors are themselves big models, which is expensive for what is really a yes or no question. This one runs on an ordinary CPU and handles short text, which is where most detectors fall apart. Built in support of SUPSI research. |
+| **Magic Wonder** | Turns an idea into a finished children's storybook. Writes the story, illustrates it, lays out the pages, exports something printable. Built with a partner for a client who was doing all of it by hand. |
+| **Customer-facing AI assistant** | Answers customers' questions about their insurance policies. I look after the logic: how it works out what someone is asking, what it can offer, and when to hand over to a person. It is never allowed to work out a price itself, because a plausible-looking number is worse than no number. |
+| **[AUB AI Starter Kit](https://aub.edu.lb/msfea/online/Programs/AI-starter-kit.html)** | An eight week certificate for people starting from zero, co-authored for the American University of Beirut. Local examples, including ones in Arabic. |
+| **[Smart glasses prototype](https://www.linkedin.com/feed/update/urn:li:activity:7090393604661071872/)** | Glasses that describe what is in front of someone who cannot see it, calling out obstacles as you walk. I led the team, and it won the AUB hackathon. |
+| **[The Void](https://github.com/jihadftouny/The-Void)** | A text RPG in Java with dice-based combat and a rarity system for equipment. 121 commits of working on it alone. I am rebuilding it now so a model generates the enemies, lore and story while you play. |
 
 ---
 
 ### Stack
 
 - **Build** · Python · TypeScript · Java · Node.js
-- **ML & AI** · PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · Ultralytics/YOLO
+- **AI** · PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · Ultralytics/YOLO
 - **Ship** · Docker · Git · Linux · MongoDB · Flask
-- **Games** · Unity · Three.js (web-based) · RPG Maker
+- **Games** · Unity · Three.js · RPG Maker
 
 ---
 
