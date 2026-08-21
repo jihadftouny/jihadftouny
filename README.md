@@ -1,6 +1,6 @@
 ### Hi, I'm Jihad 👋
 
-**AI Engineer @ Limitless Technologies · AI curriculum author (AUB · Microsoft · G42) · I build AI systems and games**
+**AI & Software Engineer @ Limitless Technologies · AI curriculum author (AUB · Microsoft · G42) · I build AI systems and games**
 
 I ship LLM systems end-to-end: customer-facing agents, RAG pipelines, AI platforms, and the backend infrastructure
 they run on. Mostly in healthcare and insurance, where the data is confidential and the cost of a wrong answer is
@@ -30,10 +30,10 @@ Before AI paid the bills I shipped games, and I still do, which is why a Java te
 
 ### Stack
 
-**Build** · Python · TypeScript · Java · Node.js
-**ML & AI** · PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · Ultralytics/YOLO
-**Ship** · Docker · Git · Linux · MongoDB · Flask
-**Games** · Unity · Three.js (web-based) · RPG Maker
+- **Build** · Python · TypeScript · Java · Node.js
+- **ML & AI** · PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · Ultralytics/YOLO
+- **Ship** · Docker · Git · Linux · MongoDB · Flask
+- **Games** · Unity · Three.js (web-based) · RPG Maker
 
 ---
 
