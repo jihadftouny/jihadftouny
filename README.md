@@ -4,7 +4,7 @@
 
 I build AI systems that people actually use, and I write the courses that teach other people to build them.
 
-My day job is at Limitless Technologies, a Beirut company working in health and insurance technology. That work is confidential, so the things I can show you are elsewhere: a platform that turns an idea into a finished children's storybook, a tool that spots AI-written text without needing a large model to do it, and the courses I have written.
+I am an AI and software engineer at Limitless Technologies in Beirut, working in health and insurance technology. On my own time I built a platform that turns an idea into a finished children's storybook, and a tool that spots AI-written text without needing a large model to do it.
 
 My teaching material has run at AUB, with Microsoft, at G42, ZAKA and SE Factory. I have taught and mentored more than 400 people directly. And I still make games, which is where I started.
 
