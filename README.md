@@ -23,7 +23,7 @@ Before AI paid the bills I shipped games, and I still do — which is why a Java
 | **Customer-facing AI agent** | A policy assistant for a confidential insurance client — natural-language Q&A over their policies. I designed the prompt architecture, conversation flows, and grounding behaviour, and I own the backend infrastructure it runs on. |
 | **[AUB AI Starter Kit](https://aub.edu.lb/msfea/online/Programs/AI-starter-kit.html)** | An 8-week online professional certificate I authored for the American University of Beirut, including localized examples with Arabic LLMs. |
 | **[Smart glasses prototype](https://www.linkedin.com/feed/update/urn:li:activity:7090393604661071872/)** | Led the team that won an AUB hackathon — YOLO-based object recognition and navigation assistance for visually impaired users. |
-| **[The Void](https://github.com/jihadftouny/The-Void)** · [play](https://bramevet.itch.io/) | A text-RPG in Java with a rarity-based equipment system and D&D-style combat. 121 commits of solo iteration, and the reason I know what I actually think about game systems design. |
+| **[The Void](https://github.com/jihadftouny/The-Void)** | A text-RPG in Java — D&D-style attributes, dice-based turn combat, rarity-based equipment. 121 commits of solo iteration. Now being reworked into a prototype for LLM-driven content: enemies, lore, and story generated at runtime instead of hand-written. |
 
 ---
 
@@ -32,7 +32,7 @@ Before AI paid the bills I shipped games, and I still do — which is why a Java
 **Build** — Python · TypeScript · Java · Node.js
 **ML & AI** — PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · Ultralytics/YOLO
 **Ship** — Docker · Git · Linux · MongoDB · Flask
-**Games** — Unity · RPG Maker
+**Games** — Unity · Three.js (web-based) · RPG Maker
 
 ---
 
